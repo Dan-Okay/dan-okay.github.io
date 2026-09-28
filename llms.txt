@@ -1,0 +1,44 @@
+# Mamdouh "Dan" Aly: Senior Shopify Developer, Cairo, Egypt
+
+> Mamdouh "Dan" Aly is a senior Shopify developer and front-end engineer based in Cairo, Egypt, with 9+ years in front-end development and 8 years on Shopify. Dan has worked on more than 264 Shopify websites, mostly for fashion and lifestyle brands, building performance-first storefronts, upsell and cross-sell systems and conversion-focused UX for clients in Egypt, the Gulf, Europe and the US. Recent builds include Women'secret stores for Jordan, Egypt and Kuwait, AYA-S (aya-s.com), Volcom, KOI Footwear, The Mason's and Oshoplin.
+
+- Title: Senior Shopify Developer & Front-End Engineer
+- Also known as: Dan Aly, Mamdouh Aly (Arabic: ممدوح علي)
+- Location: Cairo, Egypt. Works remotely with brands worldwide
+- Languages: English, Arabic
+- Experience: 264+ Shopify websites built or worked on
+- Recent builds: Women'secret (Jordan, Egypt and Kuwait stores), AYA-S (aya-s.com, complete store), Volcom, KOI Footwear, The Mason's, Oshoplin
+- Skills: Shopify, Shopify Plus, Liquid, JavaScript, HTML5, CSS3, React, TypeScript, Node.js, GraphQL, Hydrogen, Flutter
+- Services: custom Shopify themes (Liquid, Online Store 2.0), Shopify front-end development, performance and Core Web Vitals, upsells, cross-sells and cart, Shopify Plus (Checkout Extensibility, Functions, Markets, Flow), headless (Hydrogen, React), integrations, Arabic/English right-to-left stores for Egypt and the Gulf
+- Featured builds: Alo Yoga (cross-sell and Complete-the-Look engine, Egypt storefront), Volcom (collection and product pages, Klarna, Get the Fit), Oshoplin (multi-brand fashion storefront, Egypt)
+- Also engineered and contributed for: Cole Haan, Vestiaire Collective, The Giving Movement, Pier 1, Skechers, ECCO, ANTA, Umbro, The Bradery, KOI, dressbarn, Cizaro
+- Rate: $12/hour. Typical Shopify store build: 90–110 hours, about 14 days ($1,080–$1,320). Custom website: up to 150 hours (up to $1,800)
+- Contact: mamdohali720@gmail.com, WhatsApp +20 102 212 7566
+
+## Pages
+
+- [Portfolio](https://dan-okay.github.io/dan-portfolio/): overview, selected builds, featured case, stack and contact
+- [Senior Shopify developer in Cairo, Egypt](https://dan-okay.github.io/dan-portfolio/shopify-developer-egypt.html): services, how projects run, FAQ
+- [مطور شوبيفاي في مصر](https://dan-okay.github.io/dan-portfolio/ar.html): the same services in Arabic, with packages
+- [Shopify packages & pricing](https://dan-okay.github.io/dan-portfolio/shopify-packages.html): Store Launch $1,080–$1,320 (90–110 hours, about 14 days), Custom Website up to $1,800 (up to 150 hours), hourly work at $12/hour, Monthly Care from $120
+
+## Guides
+
+- [Starting a Shopify store in Egypt (2026)](https://dan-okay.github.io/dan-portfolio/shopify-egypt-guide.html): costs, Shopify fees without Shopify Payments, payment gateways (Paymob, Kashier, Fawry), cash on delivery, couriers, Arabic stores, cost calculator
+- [إزاي تفتح متجر شوبيفاي في مصر](https://dan-okay.github.io/dan-portfolio/ar-shopify-egypt-guide.html): the same guide in Arabic
+
+## Case studies
+
+- [Alo Yoga](https://dan-okay.github.io/dan-portfolio/alo-yoga-case-study.html): cross-sell and Complete-the-Look engine on Shopify
+- [Volcom](https://dan-okay.github.io/dan-portfolio/volcom-case-study.html): collection and product pages with Klarna and Get the Fit
+- [Oshoplin](https://dan-okay.github.io/dan-portfolio/oshoplin-case-study.html): multi-brand fashion storefront for Egypt
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/mamdouh-aly/)
+- [GitHub](https://github.com/Dan-Okay)
+
+## Optional
+
+- [Full text of all pages](https://dan-okay.github.io/dan-portfolio/llms-full.txt)
+- [CV (PDF)](https://dan-okay.github.io/dan-portfolio/Mamdouh-Aly-CV.pdf)
